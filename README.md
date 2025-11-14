@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/JettLiu-0129/Jelly-Translate/main/AppIcon.png" width="120" height="120" alt="App Icon" />
 </p>
 
-# Jelly
+<h1 align="center">Jelly</h1>
 
 Hi，there！
 
