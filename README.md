@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/icon.png
-" width="120" height="120" alt="App Icon" />
+  <img src="https://raw.githubusercontent.com/JettLiu-0129/Jelly-Translate/main/AppIcon.png" width="120" height="120" alt="App Icon" />
 </p>
 
 <h1 align="center">Jelly</h1>
 
 <p align="center">
-  <a href="mailto:jettliu0129@gmail.com">📮 Email</a> · 
-  <a href="https://jellytranslate.com">🌐 Website</a>
+  <a href="mailto:jettliu0129@gmail.com">Email</a> |
+  <a href="https://jellytranslate.com">Website</a>
 </p>
 
 Hi，there！
